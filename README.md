@@ -34,7 +34,7 @@ Meu nome é Filipe academico na Universidade Federal do Tocantins. O meu foco de
 ## 📫 Contato:
 
 <div> 
-  <a href="hhttps://www.linkedin.com/in/filipe-souza-693ab216a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  <a href="https://www.linkedin.com/in/filipe-souza-693ab216a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   <a href = "mailto:filipe.souza1906@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/borracha__i" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
 </div>
