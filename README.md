@@ -29,7 +29,9 @@ Meu nome é Filipe academico na Universidade Federal do Tocantins. O meu foco de
 
 ###
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FilipeMSouza)](https://github.com/anuraghazra/github-readme-stats)
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=FilipeMSouza&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FilipeMSouza&layout=compact&langs_count=16&theme=dark"/>
+</div>
 
 ## 📫 Contato:
 
