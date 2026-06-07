@@ -1,44 +1,38 @@
-# Oi, eu sou o Filipe
 
-Meu nome é Filipe academico na Universidade Federal do Tocantins. O meu foco de desenvolvimento é com [ReactJS](https://pt-br.reactjs.org/), [Python](https://python.org/), [JavaScript](https://www.javascript.com/), e estudando [Dart](https://dart.dev/),    [flutter](flutter.dev), [NodeJS](https://nodejs.org/pt-br/).
+# Hello there, I'm Filipe Souza
 
+I'm a software engineer and data professional with experience building internal platforms, analytics solutions, and automation systems that improve operational efficiency, cost control, and decision-making in industrial and enterprise environments.
 
+## Core Skills
 
-## Tecnologias que eu trabalho
+<p align="start">
+    <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React.js" />
+    <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue.js" />
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+    <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+</p>
 
-<div style="display: flex; align-items:center; justify-content: center; max-width: 500px">
+<!--
+## Git stats
 
-  <img src="https://github.com/FilipeMSouza/FilipeMSouza/blob/main/html-5.png" alt="HTML 5" style="display: inline-block; width: 48px; height: 48px"/>
-
-  <img src="https://github.com/FilipeMSouza/FilipeMSouza/blob/main/css3.png" alt="CSS 3" style="display: inline-block; width: 48px; height: 48px"/>
-
-  <img src="https://github.com/FilipeMSouza/FilipeMSouza/blob/main/javascript.png" alt="Javascript" style="display: inline-block; width: 48px; height: 48px"/>
-
-  <img src="https://github.com/FilipeMSouza/FilipeMSouza/blob/main/nodejs.png" alt="NodeJS" style="display: inline-block; width: 48px; height: 48px"/>
-
-
-  <img src="https://github.com/FilipeMSouza/FilipeMSouza/blob/main/reactjs.png" alt="ReactJS" style="display: inline-block; width: 48px; height: 48px"/>
-
-  <img src="https://github.com/FilipeMSouza/FilipeMSouza/blob/main/flutter.png" alt="Flutter" style="display: inline-block; width: 48px; height: 48px"/>
-
-  <img src="https://github.com/FilipeMSouza/FilipeMSouza/blob/main/dart.png" alt="Dart" style="display: inline-block; width: 48px; height: 48px"/>
-  
-  <img src="https://github.com/FilipeMSouza/FilipeMSouza/blob/main/python.png" alt="Pytohn" style="display: inline-block; width: 48px; height: 48px"/>
-
-</div>
-
-###
-
-<img height="130em" src="https://github-readme-stats.vercel.app/api?username=FilipeMSouza&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+ <div align="center">
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=FilipeMSouza&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FilipeMSouza&layout=compact&langs_count=16&theme=dark"/>
 </div>
 
-![Snake animation](https://github.com/FilipeMSouza/FilipeMSouza/blob/output/github-contribution-grid-snake.svg)
-## 📫 Contato:
+![Snake animation](https://github.com/FilipeMSouza/FilipeMSouza/blob/output/github-contribution-grid-snake.svg) -->
 
-<div> 
-  <a href="https://www.linkedin.com/in/filipe-souza-693ab216a/" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  <a href = "mailto:filipe.souza1906@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/borracha__i" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+## 📫 How to Contact Me
+
+<div align="start"> 
+  <a href="https://www.linkedin.com/in/filipemsouza/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:filipe.souza1906@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
 </div>
 
