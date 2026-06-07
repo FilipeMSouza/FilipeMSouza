@@ -15,16 +15,6 @@ I'm a software engineer and data professional with experience building internal 
     <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
 </p>
 
-<!--
-## Git stats
-
- <div align="center">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=FilipeMSouza&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FilipeMSouza&layout=compact&langs_count=16&theme=dark"/>
-</div>
-
-![Snake animation](https://github.com/FilipeMSouza/FilipeMSouza/blob/output/github-contribution-grid-snake.svg) -->
-
 ## 📫 How to Contact Me
 
 <div align="start"> 
